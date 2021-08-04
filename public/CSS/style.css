@@ -15,7 +15,9 @@
     color: white;
     margin-right: 20px;
 }
-
+a:hover{
+    border-bottom: 2px solid white;
+}
 .signin__button a{
     border-radius: 50px;
     width: 100px;
